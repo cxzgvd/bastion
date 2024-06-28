@@ -1,0 +1,8 @@
+smtplib
+requests
+scapy
+netifaces
+pyshark
+whois
+cryptography
+psutil

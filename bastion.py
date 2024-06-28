@@ -760,7 +760,9 @@ The program offers easy-to-use menus and prompts to guide users through the setu
 making it ideal for Linux beginners or users who want to quickly secure their server without 
 going through the hassle of manual configuration.
 In the newest version we added blue teaming modules for begginer and intermediate SOC analysts 
-that want a lightweight and quick tools all in one place.""")
+that want a lightweight and quick tools all in one place.
+                                Created by cxzgvd 
+                                https://github.com/cxzgvd""")
     
     input("Press Enter to continue...")
     
